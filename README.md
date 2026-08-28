@@ -173,4 +173,6 @@ You may also need to include the following lines into environment variables.
 
 ## Screenshots
 
+<img src="./docs/userguide/docs/images/quickstart/007-home-screen.png" alt="Scrite main page" width="720"/>
+
 <img src="./docs/screenshots/gallery.png" alt="Screenshot Gallery" width="720"/>
